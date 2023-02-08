@@ -1,0 +1,190 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: #555555;
+    font-family: 'Poppins', sans-serif;
+}
+
+.top-banner{
+    background-image: url(./images/banner/banner2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.top-banner-title{
+    font-size: 75px;
+    color:green;
+    font-weight: 900;
+    text-align: right;
+    padding: 50px 75px ;
+}
+
+.top-banner-description{
+    color: #34475E;
+    font-size: 20px;
+    font-weight: 900;
+    text-align: right;
+    padding-right: 75px;
+    padding-bottom: 50px;
+
+}
+
+.btn-primary{
+    color: white;
+    font-size: 20px;
+    font-weight: 900;
+    background-color: #900C3F;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 10px 15px;
+    border-style: none;
+}
+
+.btn-call{
+    color: #900C3F;;
+    font-size: 20px;
+    font-weight: 900;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding: 15px 30px;
+    border-style: none;
+}
+
+.previous-section{
+    margin: 130px 210px;
+    padding: 20px 30px;
+    /* background-color: aqua; */
+}
+
+.previous-section img{
+    height: 500px;
+}
+
+.previous-section li{
+    list-style: none;
+    color: green;
+}
+
+.previous-year-description{
+    color: rgb(55, 23, 34);
+    font-size: 18px;
+    font-weight: 900px;
+}
+
+.previous-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 100px;
+}
+
+.previous-year-title{
+    font-size: 40px;
+    color: indianred;
+}
+
+.plan-section{
+    margin: 130px 230px;
+    padding: 20px 30px;
+    text-align: center;
+    /* background-color: bisque; */
+}
+
+.plan-title{
+    color: #900C3F;
+    font-size: 48px;
+    font-weight: 900px;
+    padding-bottom: 50px;
+}
+
+.plans{
+    display: flex;
+    justify-content: space-around;
+    /* padding: 20 0; */
+}
+
+.plan-item{
+    font-size: 20px;
+    font-weight: 900;
+    color: #34475E;
+}
+
+.plan-description{
+    color: green;
+    font-weight: 900;
+}
+
+.positive-section{
+    margin: 130px 230px;
+    padding: 30px 40px;
+    text-align: left;
+    background-image: url(./images/gradient1.png), url(./images/watch.png);
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    border-radius: 5px;
+}
+
+.positive-text{
+    color: white;
+    font-size: 35px;
+    font-weight: 900;
+    
+}
+
+.footer-section{
+    display: flex;
+    gap: 150px;
+    padding: 80px 150px;
+    background-color: #900C3F;
+    text-align: left;
+}
+
+
+.footer-item-title{
+    /* margin: 0 24px; */
+    color: white;
+    font-weight: 900;
+    font-size: 35px;
+    /* padding-bottom: 20px; */
+    
+}
+
+.footer-item-text{
+    color: white;
+    font-weight: 900;
+    /* margin-left: 24px; */
+    margin-bottom: 20px;
+}
+
+.footer-items a{
+    /* margin-left: 12px; */
+    text-decoration: none;
+}
+
+input.email {
+    padding: 20px;
+    background: white;
+    border-radius: 5px;
+    width: 75%;
+    color: white;
+    
+}
+
+.btn-submit{
+    color: #900C3F;;
+    font-size: 20px;
+    font-weight: 900;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding: 15px 20px;
+    border-style: none;
+    width: 70%;
+}
+
+
