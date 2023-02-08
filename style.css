@@ -104,7 +104,6 @@
 .plans{
     display: flex;
     justify-content: space-around;
-    /* padding: 20 0; */
 }
 
 .plan-item{
@@ -145,23 +144,19 @@
 
 
 .footer-item-title{
-    /* margin: 0 24px; */
     color: white;
     font-weight: 900;
     font-size: 35px;
-    /* padding-bottom: 20px; */
     
 }
 
 .footer-item-text{
     color: white;
     font-weight: 900;
-    /* margin-left: 24px; */
     margin-bottom: 20px;
 }
 
 .footer-items a{
-    /* margin-left: 12px; */
     text-decoration: none;
 }
 
